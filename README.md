@@ -2,12 +2,12 @@
 
 ## Announcement 📢
 
-> The description about the contest
+> DataStories is the ultimate contest for passionate data enthusiasts! Whether you're a seasoned data expert or an aspiring data geek, this competition is your platform to delve into the world of data and share your journey with the community. The contest encompasses six exciting topics, including Large Language Models, Data Quality, Data, Machine Learning, Business Intelligence, and Cleanlab Studio. By participating, you not only upskill your data knowledge but also have the opportunity to contribute to the community by sharing your invaluable insights and expertise. Join DataStories, and let your data adventures inspire and educate others in the field.
 
 ## Blog Topics & Ideas
 
 ### 1. Large Language Models
-Description about the topic
+> Explore the role of large language models in improving data quality, rectifying mislabeled data, and ensuring precise and reliable language model results. Share insights, case studies, or best practices related to using these models.
 
 #### Idea 1: Data Quality with Large Language Models
 Do data quality check using Large Language Models.
@@ -15,7 +15,7 @@ Here's a sample blog which you can refer to: https://kdnuggets.com/2023/04/finet
 Sample dataset of customer service from a bank: https://cleanlab-public.s3.amazonaws.com/Datasets/banking_intentclassification.zip
 
 ### 2. Data Quality
-Description about the topic
+> Discuss how AI software can be harnessed to guarantee error-free data, enhancing the overall quality of datasets. Provide examples, tips, or tools for maintaining data integrity.
 
 #### Idea 1: Compare using Cleanlab Studio with traditional data quality tools
 Describe how Cleanlab auto-discovers data issues, whereas with traditional data quality tools you have to manually define their potential form. Show how Cleanlab is much more useful especially for unstructured image/text data. Comapare against things like Informatica IDQ, AWS Deepqu, OpenRefine, Data Validation platforms like Great Expectations, etc. 
@@ -71,7 +71,7 @@ Examples of applications:
 * Cleanlab can automatically identify and rectify anomalies or inconsistencies in financial statements
 
 ### 3. Data
-Description about the topic
+> Delve into the importance of data quality and its impact on model performance and trustworthiness within the data realm. Share techniques or success stories related to improving data accuracy.
 
 #### Idea 1: Use Cleanlab Studio with data stored in Databricks
 Blog similar to this one: https://www.databricks.com/blog/better-llms-better-data-using-cleanlab-studio
@@ -118,7 +118,7 @@ To evaluate synthetic image or text or tabular data.
 Use these scores to guide prompt engineering efforts (or hyperparameter-tuning of the synthetic data generator) in order to generate a good synthetic dataset.
 
 ### 4. Machine Learning
-Description about the topic
+> Share your knowledge about using machine learning to enhance model accuracy and reliability. Focus on methods for managing noisy or incorrect data labels and their effect on model outcomes.
 
 #### Idea 1: Deploy ML model for tabular data
 Show how quickly one can turn messy raw data into an accurate deployed ML Model for a structured/tabular dataset (multi-class classification task).
@@ -140,7 +140,7 @@ Then show how the training & test datasets can be cleaned with Cleanlab Studio. 
 <img width="435" alt="Use Cleanlab Studio to boost ML accuracy" src="https://github.com/konfhubtech/DataStories/assets/64151948/99343c54-0b5a-4a55-b01e-aa402ce6f338">
 
 ### 5. Business Intelligence
-Description about the topic
+> Write about the significance of accurate data in business intelligence and analytics. Discuss how clean data can lead to more precise conclusions and actionable insights.
 
 #### Idea 1: Use Cleanlab Studio with Tableau
 Show how to use Cleanlab Studio with Tableau.
@@ -167,7 +167,7 @@ Consider focusing on a specific data analysis question eg: “What fraction of c
 And then show the % you calculate from the raw dataset is significantly different than the % you calculate from the dataset auto-corrected w Cleanlab Studio.
 
 ### 6. Cleanlab Studio
-Description about the topic
+> Highlight the Cleanlab Studio framework, emphasizing its role in managing data quality and data-centric AI pipelines. Explore its contributions to streamlining processes for analytics and machine learning tasks, and share use cases or experiences related to its implementation.
 
 #### Idea 1: Use Cleanlab Studio to boost ML accuracy
 Idea is to show some common ML pipeline & tech stack that takes in raw data, trains model, evaluates it on test data.
