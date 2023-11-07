@@ -8,7 +8,7 @@
 
 ### 1. Large Language Models
 Description about the topic
-#### `a) Data Quality with Large Language Models
+####   a) Data Quality with Large Language Models
 Post can be similar to: https://kdnuggets.com/2023/04/finetuning-openai-language-models-noisily-labeled-data.html
 But featuring a different text classification dataset.
 For instance this Customer Service dataset from a bank: [https://cleanlab-public.s3.amazonaws.com/Datasets/banking_intentclassification.zip](https://cleanlab-public.s3.amazonaws.com/Datasets/banking_intentclassification.zip)
